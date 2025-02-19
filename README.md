@@ -9,9 +9,9 @@ Watch the demo video to see **ModelHealth** in action, from model evaluation to 
 
 [ModelHealth Demo](https://youtu.be/myWEIeMwBIw)
 
-## Overview PDF 📄
+## Framework overview 📄
 
-For an in-depth understanding of **ModelHealth** and its features, please refer to the [overview.pdf](./overview.png).
+For an in-depth understanding of **ModelHealth** and its features, please refer to the [Overview.png](./Overview.png).
 
 ## Key Features ✨
 - **Comprehensive Evaluation Framework**: Evaluate models across six key dimensions—Effectiveness, Embedding Quality, Compatibility, Robustness, Efficiency, and Maintainability.
